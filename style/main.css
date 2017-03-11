@@ -12,10 +12,10 @@ body {
 }
 
 h1 {
-    font-family: 'Comfortaa', sans-serif;
+    font-family: 'Railway', sans-serif;
     text-transform: uppercase;
     font-size: 2.75em;
-    font-weight: bold;
+    font-weight: 800;
     line-height: 1em;
     margin: 0 0 -.2em 0;
 }
