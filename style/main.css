@@ -16,7 +16,7 @@ body {
     margin: 0 auto;
 }
 
-.intro {
+header {
     margin: 4em 0;
 }
 
@@ -26,6 +26,12 @@ body {
 
 .project {
     margin-bottom: 6em;
+}
+
+footer {
+    text-align: center;
+    font-size: .6em;
+    color: #aaa;
 }
 
 h1 {
