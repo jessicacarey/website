@@ -88,13 +88,34 @@ img, embed, object, video {
 header {
     width: 100%;
     color: #FFFFFF;
-    background: linear-gradient(235deg, #4809E4, #E40941);
-    background-size: 400% 400%;
     margin-bottom: 3em;
-    -webkit-animation: gradient-background 30s ease infinite;
-    -moz-animation: gradient-background 30s ease infinite;
-    -o-animation: gradient-background 30s ease infinite;
-    animation: gradient-background 30s ease infinite;
+    background: linear-gradient(194deg, #cc0060, #5501ff);
+    background-size: 400% 400%;
+    -webkit-animation: background-gradient 30s ease infinite;
+    -moz-animation: background-gradient 30s ease infinite;
+    -o-animation: background-gradient 30s ease infinite;
+    animation: background-gradient 30s ease infinite;
+}
+
+@-webkit-keyframes background-gradient {
+    0%{background-position:62% 0%}
+    50%{background-position:39% 100%}
+    100%{background-position:62% 0%}
+}
+@-moz-keyframes background-gradient {
+    0%{background-position:62% 0%}
+    50%{background-position:39% 100%}
+    100%{background-position:62% 0%}
+}
+@-o-keyframes background-gradient {
+    0%{background-position:62% 0%}
+    50%{background-position:39% 100%}
+    100%{background-position:62% 0%}
+}
+@keyframes background-gradient { 
+    0%{background-position:62% 0%}
+    50%{background-position:39% 100%}
+    100%{background-position:62% 0%}
 }
 
 .header-content {
