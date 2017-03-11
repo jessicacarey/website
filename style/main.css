@@ -1,3 +1,52 @@
-.player .title {
-display: none;
+html {
+    color: #222;
+    background-color: #FFF;
+    font-family: 'Quicksand', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+}
+
+body {
+    margin: 0 auto;
+}
+
+h1 {
+    font-family: 'Quando', serif;
+    font-size: 
+}
+
+p {
+}
+
+a {
+    color: #3220E0;
+    text-decoration: none;
+    border-bottom: 2px solid rgba(50, 32, 224, 0);
+}
+
+a:hover {
+    color: #3220E0;
+    border-bottom: 2px solid rgba(50, 32, 224, 1);
+    -o-transition: border .5s ease;
+    -ms-transition: border .5s ease;
+    -moz-transition: border .5s ease;
+    -webkit-transition: border .5s ease;
+    transition: border .5s ease;
+}
+
+
+b, strong {
+    font-weight: bold;
+}
+
+samp {
+    display: none;
+}
+
+img, embed, object, video {
+    background: transparent;
+    border: 0;
+    display: block;
+    max-width: 100%;
 }
