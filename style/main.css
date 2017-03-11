@@ -53,14 +53,14 @@ p {
 }
 
 a {
-    color: #3220E0;
+    color: rgb(255, 1, 121);
     text-decoration: none;
-    border-bottom: 2px solid rgba(50, 32, 224, 0);
+    border-bottom: 2px solid rgba(255, 1, 121, 0);
 }
 
 a:hover {
     color: #3220E0;
-    border-bottom: 2px solid rgba(50, 32, 224, 1);
+    border-bottom: 2px solid rgba(255, 1, 121, 1);
     -o-transition: border .5s ease;
     -ms-transition: border .5s ease;
     -moz-transition: border .5s ease;
