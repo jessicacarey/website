@@ -39,7 +39,7 @@ p {
     font-size: 1em;
 }
 
-p .project {
+.project p {
     font-family: 'Roboto Condensed', sans-serif;
     font-weight: bold;
     text-transform: uppercase;
