@@ -89,7 +89,7 @@ img, embed, object, video {
 header {
     width: 100%;
     color: #FFFFFF;
-    margin-bottom: 3em;
+    margin-bottom: 2.75em;
     background: linear-gradient(194deg, #cc0060, #5501ff);
     background-size: 400% 400%;
     -webkit-animation: background-gradient 30s ease infinite;
