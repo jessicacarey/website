@@ -17,7 +17,7 @@ body {
 }
 
 .intro {
-    margin-bottom: 3em;
+    margin-bottom: 6em 0 10em 0;
 }
 
 .work {
@@ -25,15 +25,17 @@ body {
 }
 
 .project {
-    margin-bottom: 2em;
+    margin-bottom: 6em;
 }
 
 h1 {
     font-family: 'Roboto Condensed', sans-serif;
     text-transform: uppercase;
+    font-size: 4em;
 }
 
 p {
+    font-size: 1em;
 }
 
 a {
