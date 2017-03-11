@@ -1,7 +1,7 @@
 html {
     color: #222;
     background-color: #FFF;
-    font-family: 'Quicksand', sans-serif;
+    font-family: 'Open Sans', sans-serif;
     -webkit-font-smoothing: antialiased;
     overflow-wrap: break-word;
     word-wrap: break-word;
@@ -12,7 +12,8 @@ body {
 }
 
 .content {
-    max-width: 800px;
+    width: 800px;
+    margin: 0 auto;
 }
 
 .intro {
@@ -28,8 +29,8 @@ body {
 }
 
 h1 {
-    font-family: 'Quando', serif;
-    font-size: 
+    font-family: 'Roboto Condensed', sans-serif;
+    text-transform: uppercase;
 }
 
 p {
