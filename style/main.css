@@ -12,10 +12,10 @@ body {
 }
 
 h1 {
-    font-family: 'Railway', sans-serif;
+    font-family: 'Railway:800', sans-serif;
     text-transform: uppercase;
     font-size: 2.75em;
-    font-weight: 800;
+    font-weight: bold;
     line-height: 1em;
     margin: 0 0 -.2em 0;
 }
