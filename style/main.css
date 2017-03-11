@@ -39,6 +39,7 @@ h1 {
     font-family: 'Roboto Condensed', sans-serif;
     text-transform: uppercase;
     font-size: 4em;
+    line-height: 1em;
     margin: 0 0 -.2em 0;
 }
 
