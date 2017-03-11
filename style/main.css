@@ -8,8 +8,23 @@ html {
 }
 
 body {
-    width: 800px;
     margin: 0 auto;
+}
+
+.content {
+    max-width: 800px;
+}
+
+.intro {
+    margin-bottom: 3em;
+}
+
+.work {
+
+}
+
+.project {
+    margin-bottom: 2em;
 }
 
 h1 {
