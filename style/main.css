@@ -136,6 +136,10 @@ header {
     margin-top: -.8em;
 }
 
+.light {
+    color: #DDDDDD;
+}
+
 .project p {
     font-size: .6em;
 }
