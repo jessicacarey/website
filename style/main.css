@@ -29,6 +29,7 @@ h2 {
 
 p {
     font-size: 1em;
+    line-height: 1.6em;
 }
 
 a {
@@ -125,22 +126,18 @@ header {
     padding: 4em 0 3em 0;
 }
 
-.work {
-
-}
-
 .project {
     margin-bottom: 3em;
 }
 
 .credits {
-    color: #595959;
+    color: #757575;
     font-size: .6em;
     margin-top: -.8em;
 }
 
 .project p {
-    font-size: .8em;
+    font-size: .6em;
 }
 
 footer {
