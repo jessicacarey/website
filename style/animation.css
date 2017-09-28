@@ -9,19 +9,23 @@
 
 @-webkit-keyframes header-background {
   0%   { background-color: #cc0060; }
-  100%   { background-color: #5501ff; }
+  50%   { background-color: #5501ff; }
+  100%   { background-color: #cc0060; }
 }
 @-moz-keyframes header-background {
   0%   { background-color: #cc0060; }
-  100%   { background-color: #5501ff; }
+  50%   { background-color: #5501ff; }
+  100%   { background-color: #cc0060; }
 }
 @-o-keyframes header-background {
   0%   { background-color: #cc0060; }
-  100%   { background-color: #5501ff; }
+  50%   { background-color: #5501ff; }
+  100%   { background-color: #cc0060; }
 }
 @keyframes header-background { 
   0%   { background-color: #cc0060; }
-  100%   { background-color: #5501ff; }
+  50%   { background-color: #5501ff; }
+  100%   { background-color: #cc0060; }
 }
 
 

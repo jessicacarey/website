@@ -25,10 +25,10 @@ html {
     font-size: 12px;
 }
 h1 {
-    font-size: 4.4rem; line-height: 6rem; font-family: "greycliffcf-bold", Helvetica, sans-serif;
+    font-size: 4.2rem; line-height: 4.2rem; font-family: "greycliffcf-bold", Helvetica, sans-serif;
 }
 h2 {
-    font-size: 2rem; font-family: "greycliffcf-light", Helvetica, sans-serif; line-height: 3rem; margin-top: -3.4rem;
+    font-size: 1.8rem; font-family: "greycliffcf-light", Helvetica, sans-serif; line-height: 3rem; margin-top: -3.4rem;
 }
 #home-header-container {
     width: auto;
