@@ -28,7 +28,7 @@ h1 {
     font-size: 4.2rem; line-height: 4.2rem; font-family: "greycliffcf-bold", Helvetica, sans-serif;
 }
 h2 {
-    font-size: 1.8rem; font-family: "greycliffcf-light", Helvetica, sans-serif; line-height: 3rem; margin-top: -3.4rem;
+    font-size: 1.8rem; font-family: "greycliffcf-light", Helvetica, sans-serif; line-height: 3rem; margin-top: -3.2rem;
 }
 #home-header-container {
     width: auto;
@@ -47,13 +47,12 @@ p {
     font-size: 1em;
 }
 #content {
-    width: 100%;
+    width: 90%;
     margin: 0 auto;
     margin-top: 4rem;
     padding: 0 20px;
 }
 .project {
-    margin-right: 40px;
 }
 #footer-content {
     width: auto;
