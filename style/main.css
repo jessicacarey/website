@@ -21,6 +21,8 @@ h3 {
     text-transform: uppercase;
 }
 
+.video-title-fix { margin-top:2.5rem; }
+
 .credits {
     color: #757575;
     font-size: .8rem;
@@ -173,7 +175,7 @@ h3 {
     height:100%;
     width:100%;
     position:absolute;
-    padding-top: 1rem;
+    margin-top: 1rem;
 }
 
 
