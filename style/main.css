@@ -160,6 +160,22 @@ h3 {
     position:absolute;
 }
 
+.video-responsive-2 {
+    overflow:hidden;
+    padding-bottom:56.25%;
+    position:relative;
+    height:0;
+}
+
+.video-responsive-2 iframe {
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
+    padding-top: 1rem;
+}
+
 .video-spacer {
     display: block;
     width: 100%;
