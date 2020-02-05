@@ -1,32 +1,3 @@
-/* ---------- Home Header Gradient background ----------*/
-
-#home-header, footer {
-    -webkit-animation: header-background 15s ease infinite;
-    -moz-animation: header-background 15s ease infinite;
-    -o-animation: header-background 15s ease infinite;
-    animation: header-background 15s ease infinite;
-}
-
-@-webkit-keyframes header-background {
-  0%   { background-color: #cc0060; }
-  50%   { background-color: #5501ff; }
-  100%   { background-color: #cc0060; }
-}
-@-moz-keyframes header-background {
-  0%   { background-color: #cc0060; }
-  50%   { background-color: #5501ff; }
-  100%   { background-color: #cc0060; }
-}
-@-o-keyframes header-background {
-  0%   { background-color: #cc0060; }
-  50%   { background-color: #5501ff; }
-  100%   { background-color: #cc0060; }
-}
-@keyframes header-background { 
-  0%   { background-color: #cc0060; }
-  50%   { background-color: #5501ff; }
-  100%   { background-color: #cc0060; }
-}
 
 
 
